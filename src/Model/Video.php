@@ -2,7 +2,7 @@
 
 namespace Alura\Solid\Model;
 
-class Video
+class Video implements assistivel
 {
     /** @var bool */
     protected $assistido = false;
